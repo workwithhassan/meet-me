@@ -1,0 +1,31 @@
+.signup {
+    background-color: #0071BC;
+    height: 100vh;
+}
+
+.row {
+    padding-top: 100px;
+}
+
+.left {
+    background-image: url('../../assets/signup-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.right {
+    background-color: #fff;
+    padding-top: 200px;
+}
+
+.btn {
+    background-color: #0071BC;
+    color: #fff;
+    border-radius: 20px;
+    margin-bottom: 100px;
+}
+
+.form-control {
+    border: 1px solid #29ABE2;
+    border-radius: 20px;
+}

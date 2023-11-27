@@ -1,0 +1,15 @@
+header {
+    background-color: #1B2533;
+    color: #fff;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,1);
+    margin-right: 30px;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    margin-bottom: -24px;
+    color: #29ABE2;
+    border-bottom: 5px solid #29ABE2;
+}
